@@ -1,0 +1,9 @@
+{
+    "name": "to-do",
+    "description": "TODO list",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+      }
+}
